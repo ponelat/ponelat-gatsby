@@ -1,0 +1,10 @@
+siteTitle = "Josh Ponelat"
+siteDescr = "Just random junk, under my name"
+siteAuthor = "Josh Ponelat"
+siteGravatar = "https://www.gravatar.com/avatar/2aaa35d7dfb1a3b49e416cf45f6988ca"
+
+siteTwitterUrl = "https://twitter.com/jponelat"
+siteGithubUrl = "https://github.com/ponelat"
+siteEmailUrl = "mailto:jponelat@gmail.com"
+
+linkPrefix = "/"
